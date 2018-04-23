@@ -1,7 +1,7 @@
 ---
-title: Take Action
+title: WOMEN'S MARCH SUSSEX
 position: 0
-main-image: 
+main-image: "/uploads/WMSlogo.pdf"
 layout: actions
 ---
 
